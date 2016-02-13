@@ -23,6 +23,7 @@
 
 
             <TextView
+                android:id="@+id/TeamA"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
@@ -96,6 +97,7 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/TeamB"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
